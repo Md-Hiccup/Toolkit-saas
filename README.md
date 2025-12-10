@@ -60,6 +60,7 @@ That's it! No manual dependency installation needed.
 | `/pdf/merge` | POST | Merge multiple PDFs |
 | `/pdf/pdf-to-image` | POST | Convert PDF to images |
 | `/pdf/image-to-pdf` | POST | Convert images to PDF |
+| `/pdf/view` | POST | View PDF in browser |
 | `/pdf/extract-text` | POST | Extract text from PDF/image |
 
 Full API documentation available at: http://localhost:8005/docs
